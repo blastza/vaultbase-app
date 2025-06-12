@@ -49,4 +49,36 @@ VaultBase is a simple, full-stack banking system designed for learning and showc
 cd backend
 ./mvnw clean install
 ./mvnw spring-boot:run
+```
 Update application.properties with your local DB credentials.
+
+### Frontend Setup
+```bash
+cd frontend
+npm install
+npm start
+```
+
+🧪 Sample User Stories
+Implement User Registration Feature
+As a new visitor,
+I want to register an account,
+So that I can access my banking features.
+
+Implement Deposit Feature
+As a registered user,
+I want to deposit money into my account,
+So that I can increase my balance.
+
+## 🗂 Project Structure
+```bash
+vaultbase/
+├── backend/         # Kotlin + Spring Boot backend
+├── frontend/        # React frontend
+├── docker-compose.yml (optional)
+└── README.md
+```
+
+### 📄 License
+This project is licensed under the MIT License.
+
