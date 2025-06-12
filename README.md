@@ -1,6 +1,3 @@
-# vaultbase-app
-A secure base for digital finance.
-
 # VaultBase 🏦
 
 VaultBase is a simple, full-stack banking system designed for learning and showcasing skills in modern backend and frontend development. It supports essential banking operations like user registration, account creation, deposits, withdrawals, and transaction history.
