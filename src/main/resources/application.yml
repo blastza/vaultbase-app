@@ -1,0 +1,24 @@
+server:
+  port: 8091
+
+spring:
+  application:
+    name : vaultbase-app
+  datasource:
+    url: jdbc:postgresql://localhost:5432/authserverdb
+    username: ldamuleli
+    password: Lodav72#
+    driver-class-name: org.postgresql.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+app:
+  jwt:
+    secret: Kw9vN$3Gkz#2G!yXb1pR%L7mVs@8PqWc
+    expiration: 86400000
+

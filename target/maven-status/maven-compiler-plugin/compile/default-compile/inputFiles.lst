@@ -1,0 +1,13 @@
+/Users/admin/Desktop/lutendo_profile_projects/thee-profile/vaultbase-app/src/main/java/com/platform/vaultbase_app/VaultbaseAppApplication.java
+/Users/admin/Desktop/lutendo_profile_projects/thee-profile/vaultbase-app/src/main/java/com/platform/vaultbase_app/config/JwtAuthFilter.java
+/Users/admin/Desktop/lutendo_profile_projects/thee-profile/vaultbase-app/src/main/java/com/platform/vaultbase_app/config/SecurityConfig.java
+/Users/admin/Desktop/lutendo_profile_projects/thee-profile/vaultbase-app/src/main/java/com/platform/vaultbase_app/controller/AuthController.java
+/Users/admin/Desktop/lutendo_profile_projects/thee-profile/vaultbase-app/src/main/java/com/platform/vaultbase_app/dto/LoginRequest.java
+/Users/admin/Desktop/lutendo_profile_projects/thee-profile/vaultbase-app/src/main/java/com/platform/vaultbase_app/dto/RegisterRequest.java
+/Users/admin/Desktop/lutendo_profile_projects/thee-profile/vaultbase-app/src/main/java/com/platform/vaultbase_app/entity/AuthProvider.java
+/Users/admin/Desktop/lutendo_profile_projects/thee-profile/vaultbase-app/src/main/java/com/platform/vaultbase_app/entity/Role.java
+/Users/admin/Desktop/lutendo_profile_projects/thee-profile/vaultbase-app/src/main/java/com/platform/vaultbase_app/entity/User.java
+/Users/admin/Desktop/lutendo_profile_projects/thee-profile/vaultbase-app/src/main/java/com/platform/vaultbase_app/repository/UserRepository.java
+/Users/admin/Desktop/lutendo_profile_projects/thee-profile/vaultbase-app/src/main/java/com/platform/vaultbase_app/security/JwtUtil.java
+/Users/admin/Desktop/lutendo_profile_projects/thee-profile/vaultbase-app/src/main/java/com/platform/vaultbase_app/security/UserDetailsServiceImpl.java
+/Users/admin/Desktop/lutendo_profile_projects/thee-profile/vaultbase-app/src/main/java/com/platform/vaultbase_app/service/AuthService.java
