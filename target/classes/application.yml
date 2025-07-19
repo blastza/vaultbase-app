@@ -22,3 +22,7 @@ app:
     secret: Kw9vN$3Gkz#2G!yXb1pR%L7mVs@8PqWc
     expiration: 86400000
 
+
+google:
+  clientId: 372642516228-6h43ro7uvle7ojni24ial727tgcv4anb.apps.googleusercontent.com
+
